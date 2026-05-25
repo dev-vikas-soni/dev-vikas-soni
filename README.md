@@ -53,14 +53,6 @@ Streaming AI Resposne in form of JSON data through Retrofit Library
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-vikas-soni&show_icons=true&theme=tokyonight" height="180em" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vikas-soni&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
 ## 🌱 Currently Exploring
 
 * Compose Multiplatform
