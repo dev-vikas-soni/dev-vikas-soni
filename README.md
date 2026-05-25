@@ -2,7 +2,7 @@
 
 ### Senior Android Engineer | Kotlin Multiplatform | Jetpack Compose | OSS
 
-🚀 Senior Android Engineer with 7+ years of experience building scalable mobile applications.
+Senior Android Engineer with 7+ years of experience building scalable mobile applications.
 
 💡 Passionate about:
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔥 Lighthouse Gradle Plugin
 
