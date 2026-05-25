@@ -47,15 +47,19 @@
 
 Developer productivity plugin for Android & Kotlin projects.
 
-### 📱 KMM File Downloader
+### 📱 Retrofit Streaming App
 
-Cross-platform downloader supporting pause/resume and parallel downloads.
-
-### 🤖 AIVaid
-
-Offline-first AI-powered health assistant built using Kotlin Multiplatform.
+Streaming AI Resposne in form of JSON data through Retrofit Library 
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-vikas-soni&show_icons=true&theme=tokyonight" height="180em" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vikas-soni&layout=compact&theme=tokyonight" height="180em" />
+</p>
 
 ## 🌱 Currently Exploring
 
@@ -79,3 +83,16 @@ Offline-first AI-powered health assistant built using Kotlin Multiplatform.
 * LinkedIn
 * Medium
 * DEV Community
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dev-vikas-soni&theme=tokyonight" />
+</p>
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dev-vikas-soni&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
