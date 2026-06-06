@@ -72,9 +72,8 @@ Streaming AI Resposne in form of JSON data through Retrofit Library
 
 ## 🤝 Connect With Me
 
-* LinkedIn
-* Medium
-* DEV Community
+* LinkedIn: https://www.linkedin.com/in/vikas-soni-052013160/
+* Medium: https://medium.com/@vikasacsoni9211
 
 ## 🔥 GitHub Streak
 
